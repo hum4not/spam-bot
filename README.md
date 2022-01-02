@@ -13,6 +13,7 @@
 
 ➡️ 2) Paste token and run main.py
 
+➡️ 3) Add your id to premium.json
 
 # ❓How to add accounts
 💻 1) Copy gmail name
